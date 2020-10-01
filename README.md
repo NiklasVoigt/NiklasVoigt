@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Niklas, CEO, student, developer.<br/><br/>
+I'm Niklas, CEO, student, developer.<br/>
 
 Bio:<br/>
 🧑 22 years old<br/>
