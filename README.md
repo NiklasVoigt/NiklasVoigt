@@ -3,7 +3,7 @@
 I'm Niklas, CEO, student, developer.<br/>
 
 Bio:<br/>
-🧑 22 years old<br/>
+🧑 23 years old<br/>
 🌏 based in germany<br/>
 🎓 student of media computer science<br/>
 🍴 hungry for knowledge<br/>
