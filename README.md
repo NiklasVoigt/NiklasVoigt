@@ -3,7 +3,7 @@
 I'm Niklas, CEO, student, developer.<br/>
 
 Bio:<br/>
-🧑 24 years old<br/>
+🧑 25 years old<br/>
 🌏 based in germany<br/>
 🎓 student of media computer science<br/>
 🛩️🚁 work for robotics lab, implement and document software, build and commission flying robots<br/>
