@@ -13,7 +13,7 @@ Bio:<br/>
 🏆#1 bachelor software projects 2022/2023 [WAZ](https://www.waz.de/staedte/gelsenkirchen/gelsenkirchener-studenten-praesentieren-ihre-besten-ideen-id237540113.html)<br/>
 🏆#1 festival of visions 2023 [ANDERSMACHER](https://www.instagram.com/p/CsG8HehN_YU/), [ROBLAB](https://www.instagram.com/p/CsJTiEBM4sN/), [DRZ](https://www.instagram.com/p/CsJZ818ItcN/)<br/>
 🖨️ 3d design @ [thingiverse](https://www.thingiverse.com/niklas_voigt/)  
-📩 feel free to [contact](mailto:mail@niklas-voigt.de) me
+📩 feel free to [contact](mailto:mail@niklas.voigt@studmail.w-hs.de) me
 
 
 
