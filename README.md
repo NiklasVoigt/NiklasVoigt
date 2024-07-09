@@ -21,7 +21,7 @@ Bio:<br/>
 🔬 inproceedings @ [SSRR2023 FUKUSHIMA](https://ssrr2023.org/) [Redefining Recon: Bridging Gaps with UAVs, 360 degree Cameras, and Neural Radiance Fields](https://doi.org/10.48550/arXiv.2401.06143)  
 📢 speaker @ [112 RESCUE 2023](https://www.112rescue.de/) >> Revolutionäre Luftüberwachung: Die unsichtbare 360°-Drohne  
 🖨️ 3d design @ [thingiverse](https://www.thingiverse.com/niklas_voigt/) or [printables](https://www.printables.com/de/@NiklasVoigt_278661)  
-📩 feel free to [contact](mailto:mail@niklas.voigt@studmail.w-hs.de) me
+📩 feel free to [contact](mailto:niklas.voigt@studmail.w-hs.de) me
 
 
 
