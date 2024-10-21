@@ -10,7 +10,7 @@ I'm Niklas, student, developer.<br/>
 Bio:<br/>
 🧑 26 years old<br/>
 🌏 based in germany<br/>
-🎓 b.sc. computer science<br/>
+🎓 b.sc. computer science (thesis: autonomous navigation of micro-drones using deep neural networks)<br/>
 🛩️🚁 work for robotics lab [@RoblabWh](https://github.com/RoblabWh), implement and document software, build and commission flying robots<br/>
 🧠🕸️ employee at german ai institute for municipalities [URBAN.KI](https://urban-ki.de/)<br/>
 🍴 hungry for knowledge<br/>
