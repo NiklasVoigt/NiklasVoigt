@@ -8,11 +8,10 @@
 I'm Niklas, student, developer.<br/>
 
 Bio:<br/>
-🧑 26 years old<br/>
+🧑 27 years old<br/>
 🌏 based in germany<br/>
 🎓 b.sc. computer science (thesis: autonomous navigation of micro-drones using deep neural networks)<br/>
 🛩️🚁 work for robotics lab [@RoblabWh](https://github.com/RoblabWh), implement and document software, build and commission flying robots<br/>
-🧠🕸️ employee at german ai institute for municipalities [URBAN.KI](https://urban-ki.de/)<br/>
 🍴 hungry for knowledge<br/>
 ❤️ computer science & rc hobby<br/>
 📰📺📻featured in press [WAZ](https://www.waz.de/staedte/dortmund/wie-drohnen-aus-gelsenkirchen-leben-retten-koennen-id237101559.html), [WDR](https://www1.wdr.de/fernsehen/lokalzeit/ruhr/videos/video-studierende-entwickeln-drohnen-als-lebensretter-100.html), [SAT.1](https://www.sat1nrw.de/aktuell/drohnen-sollen-leben-retten-230697/), 1LIVE<br/>
