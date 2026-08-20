@@ -20,7 +20,7 @@ Bio:<br/>
 🔬 inproceedings @ 2023 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR), Fukushima, Japan [Redefining Recon: Bridging Gaps with UAVs, 360 degree Cameras, and Neural Radiance Fields](https://doi.org/10.1109/SSRR59696.2023.10499936)  
 🔬 inproceedings @ 2026 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2026), Genova, Italy [A 360-Degree Vision Dataset for Learning Yaw Control on GPS-Denied Micro-UAVs in Disaster-Response-Relevant Environments](https://github.com/RoblabWh/adige-360)  
 📢 speaker @ [112 RESCUE 2023](https://www.112rescue.de/) >> Revolutionäre Luftüberwachung: Die unsichtbare 360°-Drohne  
-🖨️ 3d design @ [thingiverse](https://www.thingiverse.com/niklas_voigt/) or [printables](https://www.printables.com/de/@NiklasVoigt_278661)  
+🤝 developer @ [Initiativen Wuppertal](https://initiativen-wuppertal.de/) >> Digitale Plattform für Vernetzung & Sichtbarkeit gemeinwohlorientierter Initiativen <br/>   🖨️ 3d design @ [thingiverse](https://www.thingiverse.com/niklas_voigt/) or [printables](https://www.printables.com/de/@NiklasVoigt_278661)  
 📩 feel free to [contact](mailto:niklas.voigt@studmail.w-hs.de) me
 
 
